@@ -1,0 +1,44 @@
+body {
+    background: url("background.jpg");
+    background-size: cover;
+    color: powderblue;
+}
+
+.hed {
+    color: powderblue;
+    background: white;
+    margin: 0;
+}
+
+.BuTten {
+    border-radius: 70px;
+    font-size: 20px;
+    background: white;
+    color: powderblue;
+
+}
+
+.re {
+    font-size: 25px;
+    width: 50%;
+    color: white;
+    background: powderblue;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.copyright {
+    position: fixed;
+    color: #f5f5f5;
+    bottom: 0;
+    width: 100%;
+    background-color: powderblue;
+    line-height: 2;
+    text-align: center;
+    font-size: 25px;
+}
